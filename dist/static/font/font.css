@@ -1,0 +1,29 @@
+
+@font-face {
+  font-family: "Britannic Bold";
+  src: url("Britannic_Bold.ttf");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "HYQiHei";
+  src: url("HYQiHei_65S.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-family: "Montserrat";
+  src: url("Montserrat-Regular.ttf");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "HYQiHei Bold";
+  src: url("HYQiHei_80S.ttf");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "HYQiHei Light";
+  src: url("HYQiHei_40S.ttf");
+  font-style: normal;
+}
